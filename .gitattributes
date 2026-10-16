@@ -1,0 +1,2 @@
+# Bundled third-party tools (ExifTool runtime) — not part of the project's code
+tools/** linguist-vendored
