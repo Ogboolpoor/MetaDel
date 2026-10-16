@@ -1,0 +1,19 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environment
+.venv/
+venv/
+
+# Large external binary — download separately, place in tools\ (see README)
+tools/ffmpeg.exe
+
+# Build output
+build/
+dist/
+*.spec
+
+# Built exe — attach to a GitHub Release instead (62 MB)
+MetaDel.exe
