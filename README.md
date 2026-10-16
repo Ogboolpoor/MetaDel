@@ -18,31 +18,23 @@ Built with Python and PySide6, using ExifTool, FFmpeg, pikepdf and mutagen.
 
 ## Screens
 
-### Main Window
-![Main Window](screenshots/01-empty.png)
-<br>
-![Files Added](screenshots/02-files-added.png)
+### Files Added
+![Files Added](screenshots/01-files-added.png)
 
 ### Cleaned Files
-![Cleaned Files](screenshots/03-cleaned.png)
+![Cleaned Files](screenshots/02-cleaned.png)
 
 ### File Details
-![Photo Details](screenshots/04-details-photo.png)
-![Document Details](screenshots/05-details-docx.png)
+![Photo Details](screenshots/03-details-photo.png)
+![Document Details](screenshots/04-details-docx.png)
 
 ### Dark Theme
-![Dark Theme](screenshots/06-cleaned-dark.png)
-
-### Settings
-![Settings](screenshots/07-settings.png)
-
-### Saved Files
-![Saved Files](screenshots/08-saved.png)
+![Dark Theme](screenshots/05-cleaned-dark.png)
 
 ### Before and After
 A test photo with camera, author and GPS data, before and after cleaning.
 
-![Before and After](screenshots/09-before-after-photo.png)
+![Before and After](screenshots/06-before-after-photo.png)
 
 ## Run it
 
